@@ -1,4 +1,4 @@
-# 🚗 ECUMaster Black + ESP32 Bluetooth Display
+# 🚗 ECUMaster Black + ESP32 Canbus Display
 
 [![ESP32](https://img.shields.io/badge/board-ESP32-blue.svg)](https://www.espressif.com/en/products/socs/esp32)
 [![ECUMaster](https://img.shields.io/badge/device-ECUMaster-black.svg)](https://www.ecumaster.com)
