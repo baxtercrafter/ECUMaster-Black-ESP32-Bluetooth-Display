@@ -53,7 +53,7 @@ Everytime they release a new version its almost gonna guaranteed break your "old
 - **3D Printed Case**  
   [📦 Thingiverse STL](https://www.thingiverse.com/thing:6705691)
 - **ECU**  
-  ECUMaster Black + Bluetooth Adapter
+  ECUMaster Black
 - **Active 3.3V buzzer**    
  [🛒 AliExpress link](https://www.aliexpress.com/item/1005008682347898.html)
 
