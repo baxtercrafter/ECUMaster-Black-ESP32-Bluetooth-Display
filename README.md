@@ -29,7 +29,8 @@ This project interfaces the **ECUMaster Black ECU** with an **ESP32** to create 
 4. Copy the mono-space fonts  to your project directory
 5. Upload to ESP32
 6. Optional - Connect an active 3.0-3.3V buzzer to GPIO Pin 22 (for warnings/CEL)
-7. Enjoy real-time data on-screen!
+7. Connect can RX to pin 21 and can tx to pin 4 
+8. Enjoy real-time data on-screen!
 
 ---
 
